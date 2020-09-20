@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kushagraw12/CALIBRE.git"
+    "url": "git+https://github.com/Anurag5086/CALIBRE.git"
   },
   "author": "Kushagra Wadhwa, Anurag Gupta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kushagraw12/CALIBRE/issues"
+    "url": "https://github.com/Anurag5086/CALIBRE.git"
   },
-  "homepage": "https://github.com/Kushagraw12/CALIBRE#readme",
+  "homepage": "https://github.com/Anurag5086/CALIBRE.git",
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
